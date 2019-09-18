@@ -1,0 +1,9 @@
+C:\Users\84976\Desktop\Window Forms\Caro\Caro\bin\Debug\Caro.exe.config
+C:\Users\84976\Desktop\Window Forms\Caro\Caro\bin\Debug\Caro.exe
+C:\Users\84976\Desktop\Window Forms\Caro\Caro\bin\Debug\Caro.pdb
+C:\Users\84976\Desktop\Window Forms\Caro\Caro\obj\Debug\Caro.csprojResolveAssemblyReference.cache
+C:\Users\84976\Desktop\Window Forms\Caro\Caro\obj\Debug\Caro.Form1.resources
+C:\Users\84976\Desktop\Window Forms\Caro\Caro\obj\Debug\Caro.Properties.Resources.resources
+C:\Users\84976\Desktop\Window Forms\Caro\Caro\obj\Debug\Caro.csproj.GenerateResource.Cache
+C:\Users\84976\Desktop\Window Forms\Caro\Caro\obj\Debug\Caro.exe
+C:\Users\84976\Desktop\Window Forms\Caro\Caro\obj\Debug\Caro.pdb
